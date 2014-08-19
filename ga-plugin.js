@@ -7,7 +7,7 @@ var _gaq = _gaq || [];
 })();
 
 (function(window, brightcove){
-  var _accountID = 'UA-123456-ab',
+  var _accountID = 'UA-48568090-1',
       _debug = true, //toggle to see console output in your brower's debug tools
       _player = brightcove.api.getExperience(),
       _experience = _player.getModule(brightcove.api.modules.APIModules.EXPERIENCE),
